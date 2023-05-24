@@ -9,3 +9,7 @@ var createCounter = function (n) {
     return num;
   };
 };
+
+const test = createCounter(3);
+
+console.log(test);
